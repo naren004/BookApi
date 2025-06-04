@@ -40,3 +40,4 @@ E:\S\Blazor\BookApi\BookApi\obj\Debug\net8.0\refint\BookApi.dll
 E:\S\Blazor\BookApi\BookApi\obj\Debug\net8.0\BookApi.pdb
 E:\S\Blazor\BookApi\BookApi\obj\Debug\net8.0\BookApi.genruntimeconfig.cache
 E:\S\Blazor\BookApi\BookApi\obj\Debug\net8.0\ref\BookApi.dll
+E:\S\Blazor\BookApi\BookApi\obj\Debug\net8.0\BookApi.sourcelink.json
